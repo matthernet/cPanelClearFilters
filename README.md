@@ -1,7 +1,7 @@
 # cPanel & WHM Clear Filters
 Automated way to clear mail/spam filters of accounts in cPanel & WHM
 
-Example of use: `./cpanel-filters.sh "domains-list"
+Example of use: `./cpanel-filters.sh "domains-list"`
 
 ## Warning:
 The tool will clear the complete set of mail/spam filters
