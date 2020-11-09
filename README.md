@@ -1,4 +1,6 @@
 # cPanel & WHM Clear Filters
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
 Automated way to clear mail/spam filters of accounts in cPanel & WHM
 
 Example of use: `./cpanel-filters.sh "domains-list"`
